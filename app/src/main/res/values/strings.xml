@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="textViewTitle">Título</string>
+    <string name="textViewYear">Ano</string>
+    <string name="textViewGender">Gênero</string>
+</resources>
